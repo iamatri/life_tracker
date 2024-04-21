@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <resources>
+        <style name="custom_energy_progress" parent="@android:style/Widget.ProgressBar.Horizontal">
+            <item name="android:progressDrawable">@drawable/energy_progress_drawable</item> </style>
+    </resources>
